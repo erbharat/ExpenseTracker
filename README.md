@@ -6,6 +6,7 @@ Follow the steps to start with git repository.
 Prequisites for end to end development.
 
 1- Java 1.8
+
 2- Mysql 5.5
 3- Eclipse Kepler(32/64bit)
 4- OS(Ubuntu/windows)
