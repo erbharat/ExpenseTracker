@@ -8,11 +8,17 @@ Prequisites for end to end development.
 1- Java 1.8
 
 2- Mysql 5.5
+
 3- Eclipse Kepler(32/64bit)
+
 4- OS(Ubuntu/windows)
+
 5- Git
+
 6- Git Client(Smart git for check in/out)
+
 7- Maven 3
+
 8- Tomcat(Optional as currently we are not going to develop web application but may be in future) .
 
 
