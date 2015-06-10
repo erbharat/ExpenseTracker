@@ -35,7 +35,7 @@ Follow below steps to get code base.
 
 4- Clone github ExpenseTracker repo $ git clone git@github.com:erbharat/ExpenseTracker.git
 
-5- Go into your ExpenseTracker repo $ cd fractal
+5- Go into your ExpenseTracker repo $ cd ExpenseTracker
 
 6- Initialize git flow (you already have installed git flow) $ git flow init
 
